@@ -1,0 +1,13 @@
+- 👋 Hola, Yo soy @tajadillo
+- 👀 Estoy interesado en ...
+- 🌱 Actualmente estoy aprendiendo ...
+- 💞️ Estoy buscando colaborar en ...
+- 📫 Cómo contactarme ...
+
+<!---
+tajadillo/tajadillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+tajadillo / tajadillo es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub.
+Puede hacer clic en el enlace Vista previa para ver los cambios.
+--->
